@@ -1,0 +1,8 @@
+O que é manipulação de bits:
+É uma técnica utilizada na programação, que se tem como objetivo trabalhar com cada bits separadamente, não sendo necessário trabalhar com uma variável completa.
+
+Qual a Importância da Manipulação de Bits:
+A importância da manipulação dos bits está ligada com a otimização de operações e de performance além de também ser útil na criptografia de dados.
+
+Quais são as Operações Básicas de Manipulação de Bits:
+Como principais operações básicas, temos o AND (Realiza uma operação lógica AND entre dois bits, retornando 1 se ambos os bits forem 1, e 0 caso contrário), OR ( Realiza uma operação lógica OR entre dois bits, retornando 1 se qualquer um dos bits for 1, e 0 caso contrário), XOR (Realiza uma operação lógica XOR entre dois bits, retornando 1 se os bits forem diferentes, e 0 caso contrário) e o NOT (Realiza uma operação lógica NOT em um bit, invertendo seu valor). 
