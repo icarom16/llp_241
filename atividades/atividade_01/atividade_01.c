@@ -1,6 +1,5 @@
 
 int main(void) {
-  printf("Hello World\n");
 int x = 100;
   
    printf("Digite a pontuação total do jogador: ");
