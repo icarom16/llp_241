@@ -1,0 +1,31 @@
+As respostas relacionadas as questões 
+1 - C
+A variável responsavel por guardar os numeros inteiros é a "int" 
+
+2 - A
+A sintaxe correta para declarar uma variável chamada "idade" do tipo "int":
+'idade int'
+
+3 - A 
+O operador utilizado para atribuir valor é a "="
+
+4 - A
+O operador responsavel por realizar a multiplicação é "*"
+
+5 - A
+O operador '%' é responsavel por calcular o resto da divisão
+
+6 - B
+O operador utilizado para comparar dois valores é "=="
+
+7 - B
+O operador utilizado para verificar se pelo menos umas das condições é verdadeira é "||"
+
+8 - C
+O operador utilizado para inverter um valor de expressão lógica é "!"
+
+9 - A
+O operador utilizado para deslocar os bits para esquerda é "<<"
+
+10 - B
+O operador utilizado para deslocar os bits para direita é ">>"
