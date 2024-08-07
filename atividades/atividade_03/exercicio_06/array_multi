@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    int matriz[3][3]; // matriz 3x3
-    int i, soma = 0; // variável para armazenar a soma
+    int matriz[3][3]; 
+    int i, soma = 0; 
 
-    // ler a matriz 3x3 do usuário
+    
     printf("Digite a matriz 3x3:\n");
     for (i = 0; i < 3; i++) {
         for (int j = 0; j < 3; j++) {
@@ -13,12 +13,12 @@ int main() {
         }
     }
 
-    // calcular a soma dos elementos da diagonal principal
+   
     for (i = 0; i < 3; i++) {
         soma += matriz[i][i];
     }
 
-    // exibir a soma
+   
     printf("A soma dos elementos da diagonal principal é: %d\n", soma);
 
     return 0;
